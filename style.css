@@ -1,0 +1,51 @@
+.nav {
+    color: black; background-color: white;padding: 10px 100px;
+}
+
+.menu a {
+    color: black; margin: 0px 5px; text-decoration: none;font-size: 12;
+}
+
+.menu {
+    float: right;
+}
+
+.inside1 {
+    float: left; width: 15%; padding: 0px 10px; background-color: white; margin: 15px 0px;
+}
+
+img {
+    height: 200px; width: 200px; 
+}
+
+body {
+    margin: 0px; background-color: rgb(202, 199, 199);
+}
+
+.Content {
+    padding: 15px  100px;
+}
+
+#ww {
+    height: 30px; width: 30px;
+}
+
+#ss {
+    height: 150px; width: 150px; border-radius: 75px; padding: 10px 10px;
+}
+
+#up {
+    background-color: white; float: right; width: 95%; padding: 5px 5px;margin-top: 15px;
+}
+
+#down {
+    width: 77%; float: right; padding-right: 10px
+}
+
+#aa {
+    padding: 10px 10px;
+}
+
+* {
+    box-sizing:border-box; overflow: auto;
+}
